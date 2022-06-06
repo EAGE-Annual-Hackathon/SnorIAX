@@ -24,3 +24,8 @@ This repository contains the following folders:
 
 **:open_file_folder: saltNet**
   - Not Successfull approach to apply saliency and oclussion approaches  :( sadly we did not manage to obtain good results. 
+
+
+
+
+Data needed for PorousMedia GAN:  https://drive.google.com/drive/folders/1Td-pGOgEzdyNLc9a53ZH20tzxfq2GwRq?usp=sharing
