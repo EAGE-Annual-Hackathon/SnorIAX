@@ -16,7 +16,8 @@ Explainable AI repository for Porous media Generation (Discrimiantor Evaluation)
 This repository contains the following folders: 
 
 **:open_file_folder:  Porous media:** 
-  - It includes the models for each epoch (Generator and Discrimator) for a WGAN with gradient penalty for the Berea and Beadpack dataset. Also, it provides the visualization using saliency and oclussion approaches.
+  - It includes the models for each epoch (Generator and Discrimator) for a WGAN with gradient penalty for the Berea and Beadpack dataset. Also, it provides the visualization using saliency and oclussion approaches. 
+  - Data needed for PorousMedia GAN:  https://drive.google.com/drive/folders/1Td-pGOgEzdyNLc9a53ZH20tzxfq2GwRq?usp=sharing
   
 **:open_file_folder: AttentionSaltNet**
   - Salt segmentation problem focused on attention maps. 
@@ -28,4 +29,4 @@ This repository contains the following folders:
 
 
 
-Data needed for PorousMedia GAN:  https://drive.google.com/drive/folders/1Td-pGOgEzdyNLc9a53ZH20tzxfq2GwRq?usp=sharing
+
