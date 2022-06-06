@@ -26,7 +26,7 @@ This repository contains the following folders:
 **:open_file_folder: saltNet**
   - Not Successfull approach to apply saliency and oclussion approaches  :( sadly we did not manage to obtain good results. 
 
-
-
+#### Slides
+The slides can be found in pptx. format or in drive in the following link https://docs.google.com/presentation/d/1IcY3HfhFEcwlcRbES3Sbveordv7SDEVzcrBM5VCnJpI/edit?usp=sharing
 
 
